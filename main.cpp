@@ -1,5 +1,6 @@
 #include <iostream>
-
+#include "Jane Street/robot_baseball.h"
 int main() {
-	std::cout << "welcome to my project solutions!" << std::endl;
+	find_best_value(0.1, 0.9);
+
 }

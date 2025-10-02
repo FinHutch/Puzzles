@@ -6,3 +6,5 @@
 /.vs/Puzzles
 /Puzzles/x64/Debug
 /x64/Debug
+/Puzzles.vcxproj
+/Puzzles.vcxproj.filters
